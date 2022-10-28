@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Buisness data analysis and development of machine learning models
 - 🔭 I’m currently working on my posygraduate thesis on enviroinmental remediation and waste recycling
 - 👯 I’m looking to collaborate on topics on Environmental Pollution and Health; Environmental and Analytical Chemistry or any closely related fields.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with remote jobs
 - 💬 Ask me about data wrangling and manipulation
 - 📫 How to reach me: You can contact me through email: andrew.efomzy@gmail.com; Whatsapp: +2348137723051
 - 😄 Pronouns: He/Him
