@@ -10,10 +10,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on topics on Environmental Pollution and Health; Environmental and Analytical Chemistry or any closely related fields.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about data wrangling and manipulation
-- 📫 How to reach me: You can contact me through andrew.efomzy@gmail.com
-- 📫 How to reach me: You can contact me through email: ndrew.efomzy@gmail.com; Whatsapp: +2348137723051
+- 📫 How to reach me: You can contact me through email: andrew.efomzy@gmail.com; Whatsapp: +2348137723051
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...I love reading about psychology and philosophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Efomzy)](https://github.com/Efomzy/github-profile-trophy)
 <!--
